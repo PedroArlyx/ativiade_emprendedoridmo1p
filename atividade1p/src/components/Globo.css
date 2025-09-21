@@ -1,0 +1,9 @@
+@import "tailwindcss/preflight";
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --catolica-blue: #020659;
+    --catolica-light-blue: #022873;
+  }
+}
